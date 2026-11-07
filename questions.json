@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Kết quả của phép tính: 15 + 5 x 2 là bao nhiêu?",
+    "options": {
+      "A": "40",
+      "B": "25",
+      "C": "30",
+      "D": "22"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Một hình vuông có chu vi là 20cm thì diện tích của nó là bao nhiêu?",
+    "options": {
+      "A": "20 cm²",
+      "B": "16 cm²",
+      "C": "25 cm²",
+      "D": "100 cm²"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Tìm x biết: 2x - 6 = 10",
+    "options": {
+      "A": "x = 2",
+      "B": "x = 4",
+      "C": "x = 8",
+      "D": "x = 16"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Quán quân chương trình 'Em Xinh Say Hi' mùa đầu tiên là ai?",
+    "options": {
+      "A": "Phương Mỹ Chi",
+      "B": "Trang Pháp",
+      "C": "Quang Hùng MasterD",
+      "D": "Tăng Thanh Hà"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Nữ diễn viên chính đóng vai Mai trong bộ phim điện ảnh 'Mai' là ai?",
+    "options": {
+      "A": "Ninh Dương Lan Ngọc",
+      "B": "Kaity Nguyễn",
+      "C": "Phương Anh Đào",
+      "D": "Bảo Anh"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Chương trình thực tế quy tụ các nữ nghệ sĩ nổi tiếng cùng tranh tài ca hát, vũ đạo tại Việt Nam có tên là gì?",
+    "options": {
+      "A": "Chị Đẹp Đạp Gió Rẽ Sóng",
+      "B": "Ca Sĩ Mặt Nạ",
+      "C": "Gương Mặt Thân Quen",
+      "D": "Sao Nhập Ngũ"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Trên TikTok, thuật ngữ 'POV' thường xuất hiện ở đầu các video là viết tắt của cụm từ nào?",
+    "options": {
+      "A": "Power Of Video",
+      "B": "Point Of View",
+      "C": "Part Of Vibe",
+      "D": "Play On Voice"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Trong ngôn ngữ Gen Z trên TikTok, từ 'Red flag' dùng để chỉ điều gì?",
+    "options": {
+      "A": "Tín hiệu đáng báo động, độc hại",
+      "B": "Sự may mắn rực rỡ",
+      "C": "Người rất chung thủy",
+      "D": "Trào lưu nhảy mới"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "'Công túa' là biệt danh bà Phương Hằng từng dùng để gọi nhân vật nào sau đây?",
+    "options": {
+      "A": "Nguyễn Thanh Phượng",
+      "B": "Việt Hương",
+      "C": "Phi Nhung",
+      "D": "Hoàng Thanh Nga"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Điền từ đúng vào chỗ trống: 'She ___ to the supermarket yesterday.'",
+    "options": {
+      "A": "go",
+      "B": "goes",
+      "C": "went",
+      "D": "gone"
+    },
+    "answer": "C"
+  }
+]
